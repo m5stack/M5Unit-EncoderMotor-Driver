@@ -48,7 +48,7 @@ Add the Git repository to `platformio.ini`:
 
 ```ini
 lib_deps =
-    https://gitlab.m5stack.com/m5-arduino-library/M5Unit-EncoderMotor-Driver.git
+    https://github.com/m5stack/M5Unit-EncoderMotor-Driver.git
 ```
 
 ## Product Selection
